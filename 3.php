@@ -2,7 +2,7 @@
 
 $fruits = array("strawberry","banana","melon","shine muscat","pear");
 
-foreach ($fruits as $fruits) {
-    echo "." . $fruits;
+foreach ($fruits as $number) {
+    echo "." . $number;
     echo "\n";
 }
